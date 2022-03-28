@@ -11,7 +11,6 @@
   inputs.src-httputils-master.ref   = "refs/heads/master";
   inputs.src-httputils-master.owner = "status-im";
   inputs.src-httputils-master.repo  = "nim-http-utils";
-  inputs.src-httputils-master.dir   = "";
   inputs.src-httputils-master.type  = "github";
   
   inputs."stew".owner = "nim-nix-pkgs";
